@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+*.log
+
+# SkillHub metadata (kept locally, not committed)
+_meta.json
+_skillhub_meta.json
+.skills_store_lock.json
+
+# Editor files
+.vscode/
+.idea/
+*.swp
